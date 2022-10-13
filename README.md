@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/geolabsoft/mecsuelos/main/logo_ucsc_plain.svg" alt="Logo UCSC" width="350"/>
 
 
-# Analysis of the influence of geomechanical parameters and geometry on slope stability in granitic residual soils [[Link to the paper]]()
+# Analysis of the influence of geomechanical parameters and geometry on slope stability in granitic residual soils [[Link to the paper]](https://www.mdpi.com/2076-3417/12/11/5574/htm)
 
 
 
