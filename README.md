@@ -12,7 +12,7 @@ This repository contains the resouces used to generate and calculate the numeric
 
 ### Publication information
 
-To be fulfilled after publication
+Bravo-Zapata, M. F., Muñoz, E., Lapeña-Mañero, P., Montenegro-Cooper, J. M., & King, R. W. (2022). Analysis of the Influence of Geomechanical Parameters and Geometry on Slope Stability in Granitic Residual Soils. Applied Sciences, 12(11), Art. 11. https://doi.org/10.3390/app12115574
 
 ## Notebook for model creation and calculation
 
